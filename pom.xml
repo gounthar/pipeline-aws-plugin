@@ -67,7 +67,7 @@
     </pluginRepositories>
     <properties>
         <jenkins.version>2.387.3</jenkins.version>
-        <powermock.version>1.7.4</powermock.version>
+        <powermock.version>1.6.5</powermock.version>
     </properties>
     <dependencyManagement>
         <dependencies>
